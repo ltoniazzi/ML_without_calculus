@@ -13,3 +13,10 @@ We think that the loss in performance and depth in this neural network is compen
 ## Set up
 
 [Work in progress]
+
+
+
+## To do 
+
+- tf equivalent.
+- JAX implementation.
