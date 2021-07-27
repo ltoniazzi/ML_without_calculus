@@ -15,12 +15,15 @@ We think that the loss in performance and depth in this neural network is compen
 
 ## Set up
 
-bider + conda
+You can run this notebook with Binder by clicking on this badge
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltoniazzi/ML_without_calculus/main)
+
+
+Alternatively, you can install the environment locally using Anaconda.
 
 
 
 ## To do 
 
-- tf equivalent.
 - JAX implementation.
